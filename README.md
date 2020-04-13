@@ -4,7 +4,7 @@ opportunities.
 
 # Setup
 ```
-pip install -r requirement.text
+pip install -r requirements.txt
 ```
 (Runs on Python 3)
 
